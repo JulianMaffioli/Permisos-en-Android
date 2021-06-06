@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="titulo">Permisos para Aplicaciones en Kotlin</string>
+</resources>
